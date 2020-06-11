@@ -1,4 +1,4 @@
-# 3_Day_Weather_Forecast_App
+# 3 Day Weather Forecast App
 <p align="center"> A program that takes in the name of a city from the user, and gives the temperature and weather for the rest of today and the next two days in UTC time.
     <br> 
 </p>
